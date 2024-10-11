@@ -3,6 +3,7 @@ Infrastructure Engineer, Interested at History, Artificial Intelligence and Aero
 # Books I've read
 
 ### 2024
+- [鄧小平時代](https://book.douban.com/subject/20424526/) Ezra.F.Vogel / 香港中文大学出版社 ⭐⭐⭐⭐⭐
 - [Liftoff : Elon Musk and the Desperate Early Days That Launched SpaceX](https://book.douban.com/subject/35390591/) Eric Berger ⭐⭐⭐⭐⭐
 - [你一生的故事](https://book.douban.com/subject/34672178/) 特德姜 ⭐⭐⭐⭐
 - [Grokking Deep Learning](https://book.douban.com/subject/26887949/) Andrew Trask ⭐⭐⭐
