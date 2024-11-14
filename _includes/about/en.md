@@ -3,22 +3,23 @@ Infrastructure Engineer, Interested at History, Artificial Intelligence and Aero
 # Books I've read
 
 ### 2024
-- [Unit Testing : Principles, Patterns and Practices](https://book.douban.com/subject/34429421/) Vladimir Khorikov ⭐⭐⭐⭐⭐
-- [超越百岁 : 长寿的科学与艺术](https://book.douban.com/subject/36696538/) Peter Attia、Bill Gifford ⭐⭐⭐⭐⭐
-- [奥本海默传 : 美国“原子弹之父”的胜利与悲剧](https://book.douban.com/subject/36483883/) 凯·伯德、马丁·J.舍温 ⭐⭐⭐⭐⭐
-- [食南之徒](https://book.douban.com/subject/36710597/) 马伯庸 ⭐⭐⭐⭐
-- [Build a Large Language Model (From Scratch)](https://book.douban.com/subject/36808317/) Sebastian Raschka ⭐⭐⭐⭐⭐
-- [推拿](https://book.douban.com/subject/34432627/) 毕飞宇 ⭐⭐⭐⭐
-- [戴维营三天](https://book.douban.com/subject/36177510/) 杰弗里·E.加藤 ⭐⭐⭐⭐
-- [组织部来了个年轻人](https://book.douban.com/subject/35455394/) 王蒙 ⭐⭐⭐
-- [1984 : 反乌托邦三部曲](https://book.douban.com/subject/25798623/) 乔治·奥威尔 ⭐⭐⭐⭐⭐
-- [动物庄园](https://book.douban.com/subject/11533585/) 乔治·奥威尔 ⭐⭐⭐⭐⭐
-- [Deep Learning with Python, Second Edition](https://book.douban.com/subject/34992553/) François Chollet ⭐⭐⭐⭐⭐
-- [Grokking Deep Learning](https://book.douban.com/subject/26887949/) Andrew Trask ⭐⭐⭐
-- [你一生的故事](https://book.douban.com/subject/34672178/) 特德姜 ⭐⭐⭐⭐
-- [Liftoff : Elon Musk and the Desperate Early Days That Launched SpaceX](https://book.douban.com/subject/35390591/) Eric Berger ⭐⭐⭐⭐⭐
-- [鄧小平時代](https://book.douban.com/subject/20424526/) Ezra.F.Vogel / 香港中文大学出版社 ⭐⭐⭐⭐⭐
-- [天生就会跑（Born To Run）](https://book.douban.com/subject/11542577/) Christopher McDougall  ⭐⭐
+-[1] [Unit Testing : Principles, Patterns and Practices](https://book.douban.com/subject/34429421/) Vladimir Khorikov ⭐⭐⭐⭐⭐
+-[2] [超越百岁 : 长寿的科学与艺术](https://book.douban.com/subject/36696538/) Peter Attia、Bill Gifford ⭐⭐⭐⭐⭐
+-[3] [奥本海默传 : 美国“原子弹之父”的胜利与悲剧](https://book.douban.com/subject/36483883/) 凯·伯德、马丁·J.舍温 ⭐⭐⭐⭐⭐
+-[4] [食南之徒](https://book.douban.com/subject/36710597/) 马伯庸 ⭐⭐⭐⭐
+-[5] [Build a Large Language Model (From Scratch)](https://book.douban.com/subject/36808317/) Sebastian Raschka ⭐⭐⭐⭐⭐
+-[6] [推拿](https://book.douban.com/subject/34432627/) 毕飞宇 ⭐⭐⭐⭐
+-[7] [戴维营三天](https://book.douban.com/subject/36177510/) 杰弗里·E.加藤 ⭐⭐⭐⭐
+-[8] [组织部来了个年轻人](https://book.douban.com/subject/35455394/) 王蒙 ⭐⭐⭐
+-[9] [1984 : 反乌托邦三部曲](https://book.douban.com/subject/25798623/) 乔治·奥威尔 ⭐⭐⭐⭐⭐
+-[10] [动物庄园](https://book.douban.com/subject/11533585/) 乔治·奥威尔 ⭐⭐⭐⭐⭐
+-[11] [Deep Learning with Python, Second Edition](https://book.douban.com/subject/34992553/) François Chollet ⭐⭐⭐⭐⭐
+-[12] [Grokking Deep Learning](https://book.douban.com/subject/26887949/) Andrew Trask ⭐⭐⭐
+-[13] [你一生的故事](https://book.douban.com/subject/34672178/) 特德姜 ⭐⭐⭐⭐
+-[14] [Liftoff : Elon Musk and the Desperate Early Days That Launched SpaceX](https://book.douban.com/subject/35390591/) Eric Berger ⭐⭐⭐⭐⭐
+-[15] [鄧小平時代](https://book.douban.com/subject/20424526/) Ezra.F.Vogel / 香港中文大学出版社 ⭐⭐⭐⭐⭐
+-[16] [天生就会跑（Born To Run）](https://book.douban.com/subject/11542577/) Christopher McDougall  ⭐⭐
+-[17] [遥远的救世主](https://book.douban.com/subject/1322455/) 豆豆 ⭐⭐⭐
 
 ### 2023
 - [Bitcoin and Cryptocurrency Technologies : A Comprehensive Introduction](https://book.douban.com/subject/26745448/) Arvind Narayanan ⭐⭐⭐⭐⭐
