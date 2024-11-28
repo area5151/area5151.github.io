@@ -16,14 +16,15 @@ Infrastructure Engineer, Interested at History, Artificial Intelligence and Aero
 - [Deep Learning with Python, Second Edition](https://book.douban.com/subject/34992553/) François Chollet ⭐⭐⭐⭐⭐
 - [Grokking Deep Learning](https://book.douban.com/subject/26887949/) Andrew Trask ⭐⭐⭐
 - [你一生的故事](https://book.douban.com/subject/34672178/) 特德姜 ⭐⭐⭐⭐
-- [Liftoff : Elon Musk and the Desperate Early Days That Launched SpaceX](https://book.douban.com/subject/35390591/) Eric Berger ⭐⭐⭐⭐⭐
+- [Liftoff : Elon Musk and the Desperate Early Days That Launched SpaceX](https://book.douban.com/subject/35390591/) Eric Berger ⭐⭐⭐⭐
 - [鄧小平時代](https://book.douban.com/subject/20424526/) Ezra.F.Vogel / 香港中文大学出版社 ⭐⭐⭐⭐⭐
 - [天生就会跑（Born To Run）](https://book.douban.com/subject/11542577/) Christopher McDougall  ⭐⭐
 - [遥远的救世主](https://book.douban.com/subject/1322455/) 豆豆 ⭐⭐⭐
-- [Why Machines Learn: The Elegant Math Behind Modern AI](https://www.amazon.com/Why-Machines-Learn-Elegant-Behind/dp/0593185749) Anil Ananthaswamy ⭐⭐⭐⭐⭐
+- [Why Machines Learn: The Elegant Math Behind Modern AI](https://www.amazon.com/Why-Machines-Learn-Elegant-Behind/dp/0593185749) Anil Ananthaswamy ⭐⭐⭐⭐
+- [围城](https://book.douban.com/subject/1008145/) 钱钟书 ⭐⭐⭐⭐
 
 ### 2023
-- [Bitcoin and Cryptocurrency Technologies : A Comprehensive Introduction](https://book.douban.com/subject/26745448/) Arvind Narayanan ⭐⭐⭐⭐⭐
+- [Bitcoin and Cryptocurrency Technologies : A Comprehensive Introduction](https://book.douban.com/subject/26745448/) Arvind Narayanan ⭐⭐⭐⭐
 - [太白金星有点烦](https://book.douban.com/subject/36328704/) 马伯庸 ⭐⭐⭐⭐⭐
 - [The Infinite Machine : How an Army of Crypto-hackers Is Building the Next Internet with Ethereum](https://book.douban.com/subject/35222512/) Camila Russo ⭐⭐⭐⭐
 - [亮剑](https://book.douban.com/subject/27167368/) 都梁 ⭐⭐⭐⭐⭐
@@ -33,11 +34,11 @@ Infrastructure Engineer, Interested at History, Artificial Intelligence and Aero
 - [Androids : The Team That Built the Android Operating System](https://book.douban.com/subject/35564446/) Chet Haase ⭐⭐⭐⭐
 - [The Effective Engineer](https://book.douban.com/subject/26360716/) Edmond Lau ⭐⭐⭐⭐
 - [Software Engineering at Google : Lessons Learned from Programming Over Time](https://book.douban.com/subject/34875994/) Titus Winters ⭐⭐⭐⭐
-- [distributed system for fun and profit](https://book.douban.com/subject/35300479/) Mikito Takada ⭐⭐⭐⭐⭐
+- [distributed system for fun and profit](https://book.douban.com/subject/35300479/) Mikito Takada ⭐⭐⭐⭐
 - [Think Like a Rocket Scientist : Simple Strategies You Can Use to Make Giant Leaps in Work and Life](https://book.douban.com/subject/34957041/) Ozan Varol ⭐⭐⭐⭐⭐
 - [斯通纳](https://book.douban.com/subject/26425831/) 约翰·威廉斯 ⭐⭐⭐⭐
 - [Information Storage and Management : Storing, Managing, and Protecting Digital Information in Classic, Virtualized, and Cloud Environ](https://book.douban.com/subject/10077008/) EMC Education Services ⭐⭐⭐
-- [乔布斯传](https://book.douban.com/subject/25810506/) 沃尔特·艾萨克森  ⭐⭐⭐⭐⭐
+- [乔布斯传](https://book.douban.com/subject/25810506/) 沃尔特·艾萨克森  ⭐⭐⭐⭐
 
 ### Before（selected）
 - [显微镜下的大明](https://book.douban.com/subject/30414743/) 马伯庸 ⭐⭐⭐⭐
