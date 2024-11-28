@@ -5,7 +5,7 @@ Infrastructure Engineer, Interested at History, Artificial Intelligence and Aero
 ### 2024
 - [Unit Testing : Principles, Patterns and Practices](https://book.douban.com/subject/34429421/) Vladimir Khorikov ⭐⭐⭐⭐⭐
 - [超越百岁 : 长寿的科学与艺术](https://book.douban.com/subject/36696538/) Peter Attia、Bill Gifford ⭐⭐⭐⭐⭐
-- [奥本海默传 : 美国“原子弹之父”的胜利与悲剧](https://book.douban.com/subject/36483883/) 凯·伯德、马丁·J.舍温 ⭐⭐⭐⭐⭐
+- [奥本海默传 : 美国“原子弹之父”的胜利与悲剧](https://book.douban.com/subject/36483883/) 凯·伯德、马丁·J.舍温 ⭐⭐⭐⭐
 - [食南之徒](https://book.douban.com/subject/36710597/) 马伯庸 ⭐⭐⭐⭐
 - [Build a Large Language Model (From Scratch)](https://book.douban.com/subject/36808317/) Sebastian Raschka ⭐⭐⭐⭐⭐
 - [推拿](https://book.douban.com/subject/34432627/) 毕飞宇 ⭐⭐⭐⭐
