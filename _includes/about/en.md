@@ -22,6 +22,7 @@ Infrastructure Engineer, Interested at History, Artificial Intelligence and Aero
 - [遥远的救世主](https://book.douban.com/subject/1322455/) 豆豆 ⭐⭐⭐
 - [Why Machines Learn: The Elegant Math Behind Modern AI](https://www.amazon.com/Why-Machines-Learn-Elegant-Behind/dp/0593185749) Anil Ananthaswamy ⭐⭐⭐⭐
 - [围城](https://book.douban.com/subject/1008145/) 钱钟书 ⭐⭐⭐⭐
+- [双缝实验和量子力学(Through Two Doors at Once: The Elegant Experiment That Captures the Enigma of Our Quantum Reality)](https://book.douban.com/subject/36893049/) Anil Ananthaswamy ⭐⭐⭐
 
 ### 2023
 - [Bitcoin and Cryptocurrency Technologies : A Comprehensive Introduction](https://book.douban.com/subject/26745448/) Arvind Narayanan ⭐⭐⭐⭐
