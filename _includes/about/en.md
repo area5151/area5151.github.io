@@ -24,6 +24,7 @@ Infrastructure Engineer, Interested at History, Artificial Intelligence and Aero
 - [围城](https://book.douban.com/subject/1008145/) 钱钟书 ⭐⭐⭐⭐
 - [双缝实验和量子力学(Through Two Doors at Once: The Elegant Experiment That Captures the Enigma of Our Quantum Reality)](https://book.douban.com/subject/36893049/) Anil Ananthaswamy ⭐⭐⭐
 - [北京法源寺](https://book.douban.com/subject/1062991/) 李敖 ⭐⭐⭐⭐⭐
+- [克里斯汀](https://book.douban.com/subject/36759442/) 斯蒂芬•金 ⭐⭐
 
 ### 2023
 - [Bitcoin and Cryptocurrency Technologies : A Comprehensive Introduction](https://book.douban.com/subject/26745448/) Arvind Narayanan ⭐⭐⭐⭐
