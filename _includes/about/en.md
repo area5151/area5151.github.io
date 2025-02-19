@@ -2,6 +2,9 @@ Infrastructure Engineer, Interested at History, Artificial Intelligence and Aero
 
 # Books I've read
 
+### 2025
+- [The Crypto Trader: How anyone can make money trading Bitcoin and other cryptocurrencies](https://www.amazon.com/Crypto-Trader-trading-Bitcoin-cryptocurrencies/dp/0857197177) Glen Goodman ⭐⭐⭐
+
 ### 2024
 - [Unit Testing : Principles, Patterns and Practices](https://book.douban.com/subject/34429421/) Vladimir Khorikov ⭐⭐⭐⭐⭐
 - [超越百岁 : 长寿的科学与艺术](https://book.douban.com/subject/36696538/) Peter Attia、Bill Gifford ⭐⭐⭐⭐⭐
