@@ -4,8 +4,9 @@ Infrastructure Engineer, Interested at History, Artificial Intelligence and Aero
 
 ### 2025
 - [The Crypto Trader: How anyone can make money trading Bitcoin and other cryptocurrencies](https://www.amazon.com/Crypto-Trader-trading-Bitcoin-cryptocurrencies/dp/0857197177) Glen Goodman ⭐⭐⭐
+- [How to Day Trade for a Living: A Beginner’s Guide to Trading Tools and Tactics, Money Management, Discipline and Trading Psychology](https://www.amazon.com/dp/1535585951/?bestFormat=true&k=how%20to%20do%20day%20trade%20for%20a%20living%20book&ref_=nb_sb_ss_w_scx-ent-pd-bk-d_de_k0_1_26&crid=2JL7G31LRNR98&sprefix=how%20to%20day%20trade%20for%20a%20liv) Andrew Aziz ⭐⭐⭐⭐
 
-### 2024
+### 2024（The Year of Artificial Intelligence）
 - [Unit Testing : Principles, Patterns and Practices](https://book.douban.com/subject/34429421/) Vladimir Khorikov ⭐⭐⭐⭐⭐
 - [超越百岁 : 长寿的科学与艺术](https://book.douban.com/subject/36696538/) Peter Attia、Bill Gifford ⭐⭐⭐⭐⭐
 - [奥本海默传 : 美国“原子弹之父”的胜利与悲剧](https://book.douban.com/subject/36483883/) 凯·伯德、马丁·J.舍温 ⭐⭐⭐⭐
@@ -29,7 +30,7 @@ Infrastructure Engineer, Interested at History, Artificial Intelligence and Aero
 - [北京法源寺](https://book.douban.com/subject/1062991/) 李敖 ⭐⭐⭐⭐⭐
 - [克里斯汀](https://book.douban.com/subject/36759442/) 斯蒂芬•金 ⭐⭐
 
-### 2023
+### 2023（The Year of Engineering）
 - [Bitcoin and Cryptocurrency Technologies : A Comprehensive Introduction](https://book.douban.com/subject/26745448/) Arvind Narayanan ⭐⭐⭐⭐
 - [太白金星有点烦](https://book.douban.com/subject/36328704/) 马伯庸 ⭐⭐⭐⭐⭐
 - [The Infinite Machine : How an Army of Crypto-hackers Is Building the Next Internet with Ethereum](https://book.douban.com/subject/35222512/) Camila Russo ⭐⭐⭐⭐
