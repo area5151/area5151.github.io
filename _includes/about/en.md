@@ -5,6 +5,7 @@ Infrastructure Engineer, Interested at History, Artificial Intelligence and Aero
 ### 2025
 - [The Crypto Trader: How anyone can make money trading Bitcoin and other cryptocurrencies](https://www.amazon.com/Crypto-Trader-trading-Bitcoin-cryptocurrencies/dp/0857197177) Glen Goodman ⭐⭐⭐
 - [How to Day Trade for a Living: A Beginner’s Guide to Trading Tools and Tactics, Money Management, Discipline and Trading Psychology](https://www.amazon.com/dp/1535585951/?bestFormat=true&k=how%20to%20do%20day%20trade%20for%20a%20living%20book&ref_=nb_sb_ss_w_scx-ent-pd-bk-d_de_k0_1_26&crid=2JL7G31LRNR98&sprefix=how%20to%20day%20trade%20for%20a%20liv) Andrew Aziz ⭐⭐⭐⭐
+- [Crypto Trading for Ambitious Beginners: A Practical Guide to Profitable Trading in Bitcoin and other Cryptocurrencies](https://www.amazon.sg/Crypto-Trading-Ambitious-Beginners-Cryptocurrencies/dp/9082506386) Jelle Peters ⭐⭐⭐
 
 ### 2024（The Year of Artificial Intelligence）
 - [Unit Testing : Principles, Patterns and Practices](https://book.douban.com/subject/34429421/) Vladimir Khorikov ⭐⭐⭐⭐⭐
