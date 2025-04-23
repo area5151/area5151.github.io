@@ -6,7 +6,7 @@ Infrastructure Engineer, Interested at History, Artificial Intelligence and Aero
 - [The Crypto Trader](https://www.amazon.com/Crypto-Trader-trading-Bitcoin-cryptocurrencies/dp/0857197177) Glen Goodman ⭐⭐⭐
 - [How to Day Trade for a Living](https://www.amazon.com/dp/1535585951/?bestFormat=true&k=how%20to%20do%20day%20trade%20for%20a%20living%20book&ref_=nb_sb_ss_w_scx-ent-pd-bk-d_de_k0_1_26&crid=2JL7G31LRNR98&sprefix=how%20to%20day%20trade%20for%20a%20liv) Andrew Aziz ⭐⭐⭐⭐
 - [Crypto Trading for Ambitious Beginners](https://www.amazon.sg/Crypto-Trading-Ambitious-Beginners-Cryptocurrencies/dp/9082506386) Jelle Peters ⭐⭐⭐
-- [How to DeFi: Beginner](https://www.amazon.sg/dp/B098GT2PSG?ref_=mr_referred_us_sg_sg)) CoinGecko Team ⭐⭐
+- [How to DeFi: Beginner](https://www.amazon.sg/dp/B098GT2PSG?ref_=mr_referred_us_sg_sg) CoinGecko Team ⭐⭐
 - [How to DeFi: Advanced](https://www.amazon.sg/How-DeFi-Advanced-Lucius-Fang/dp/B098H215P3) CoinGecko Team ⭐⭐⭐
 
 ### 2024（The Year of Artificial Intelligence）
