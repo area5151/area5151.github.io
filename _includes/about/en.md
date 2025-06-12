@@ -8,6 +8,7 @@ Infrastructure Engineer, Interested at History, Artificial Intelligence and Aero
 - [Crypto Trading for Ambitious Beginners](https://www.amazon.sg/Crypto-Trading-Ambitious-Beginners-Cryptocurrencies/dp/9082506386) Jelle Peters ⭐⭐⭐
 - [How to DeFi: Beginner](https://www.amazon.sg/dp/B098GT2PSG?ref_=mr_referred_us_sg_sg) CoinGecko Team ⭐⭐
 - [How to DeFi: Advanced](https://www.amazon.sg/How-DeFi-Advanced-Lucius-Fang/dp/B098H215P3) CoinGecko Team ⭐⭐⭐
+- [走向共和](https://book.douban.com/subject/1044347/) 盛和煜 / 张建伟 ⭐⭐⭐⭐
 
 ### 2024（The Year of Artificial Intelligence）
 - [Unit Testing : Principles, Patterns and Practices](https://book.douban.com/subject/34429421/) Vladimir Khorikov ⭐⭐⭐⭐⭐
