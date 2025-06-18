@@ -1,4 +1,4 @@
-Infrastructure Engineer, Interested at History, Artificial Intelligence and Aerospace.
+Infrastructure Engineer, Interested at Blockchain, History and Artificial Intelligence.
 
 # Books I've read
 
