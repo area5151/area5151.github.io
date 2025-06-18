@@ -9,6 +9,7 @@ Infrastructure Engineer, Interested at History, Artificial Intelligence and Aero
 - [How to DeFi: Beginner](https://www.amazon.sg/dp/B098GT2PSG?ref_=mr_referred_us_sg_sg) CoinGecko Team ⭐⭐
 - [How to DeFi: Advanced](https://www.amazon.sg/How-DeFi-Advanced-Lucius-Fang/dp/B098H215P3) CoinGecko Team ⭐⭐⭐
 - [走向共和](https://book.douban.com/subject/1044347/) 盛和煜 / 张建伟 ⭐⭐⭐⭐
+- [Blockchain, Crypto and DeFi: Bridging Finance and Technology](https://www.amazon.com/Blockchain-Crypto-DeFi-Bridging-Technology/dp/1394275897) Marco Di Maggio ⭐⭐⭐⭐⭐
 
 ### 2024（The Year of Artificial Intelligence）
 - [Unit Testing : Principles, Patterns and Practices](https://book.douban.com/subject/34429421/) Vladimir Khorikov ⭐⭐⭐⭐⭐
