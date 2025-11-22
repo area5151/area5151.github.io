@@ -11,6 +11,7 @@ Infrastructure Engineer, Interested at Blockchain, History and Artificial Intell
 - [走向共和](https://book.douban.com/subject/1044347/) 盛和煜 / 张建伟 ⭐⭐⭐⭐
 - [Blockchain, Crypto and DeFi: Bridging Finance and Technology](https://www.amazon.com/Blockchain-Crypto-DeFi-Bridging-Technology/dp/1394275897) Marco Di Maggio ⭐⭐⭐⭐⭐
 - [Quantitative Trading: How to Build Your Own Algorithmic Trading Business](https://www.amazon.co.jp/-/zh/dp-1119800064/dp/1119800064/ref=dp_ob_title_bk) Ernest P. Chan ⭐⭐
+- [他改变了中国：江泽民传](https://m.douban.com/book/subject/1258378/) 罗伯特·劳伦斯·库恩 ⭐️⭐️⭐️
 
 ### 2024（The Year of Artificial Intelligence）
 - [Unit Testing : Principles, Patterns and Practices](https://book.douban.com/subject/34429421/) Vladimir Khorikov ⭐⭐⭐⭐⭐
