@@ -49,7 +49,6 @@ Infrastructure Engineer, Interested at Blockchain, History and Artificial Intell
 - [Androids : The Team That Built the Android Operating System](https://book.douban.com/subject/35564446/) Chet Haase ⭐⭐⭐⭐
 - [The Effective Engineer](https://book.douban.com/subject/26360716/) Edmond Lau ⭐⭐⭐⭐
 - [Software Engineering at Google : Lessons Learned from Programming Over Time](https://book.douban.com/subject/34875994/) Titus Winters ⭐⭐⭐⭐
-- [distributed system for fun and profit](https://book.douban.com/subject/35300479/) Mikito Takada ⭐⭐⭐⭐
 - [Think Like a Rocket Scientist : Simple Strategies You Can Use to Make Giant Leaps in Work and Life](https://book.douban.com/subject/34957041/) Ozan Varol ⭐⭐⭐⭐⭐
 - [斯通纳](https://book.douban.com/subject/26425831/) 约翰·威廉斯 ⭐⭐⭐⭐
 - [Information Storage and Management : Storing, Managing, and Protecting Digital Information in Classic, Virtualized, and Cloud Environ](https://book.douban.com/subject/10077008/) EMC Education Services ⭐⭐⭐
@@ -64,6 +63,7 @@ Infrastructure Engineer, Interested at Blockchain, History and Artificial Intell
 - [The Practice of Programming](https://book.douban.com/subject/1459281/) Brian W. Kernighan、Rob Pike ⭐⭐⭐⭐
 - [Practical File System Design with the Be File System](https://book.douban.com/subject/1786841/) Dominic Giampaolo ⭐⭐⭐⭐
 - [大明王朝1566](https://book.douban.com/subject/26925171/) 刘和平 ⭐⭐⭐⭐⭐
+- [Distributed System for Fun and Profit](https://book.douban.com/subject/35300479/) Mikito Takada ⭐⭐⭐⭐
 - [Designing Data-Intensive Applications : The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://book.douban.com/subject/26197294/) Martin Kleppmann ⭐⭐⭐⭐⭐
 - [牛棚杂忆](https://book.douban.com/subject/1062423/) 季羡林 ⭐⭐⭐⭐⭐
 - [月亮与六便士](https://book.douban.com/subject/26707463/) 毛姆 ⭐⭐⭐⭐⭐
@@ -77,5 +77,6 @@ Infrastructure Engineer, Interested at Blockchain, History and Artificial Intell
 - [兄弟](https://book.douban.com/subject/1401425/) 余华  ⭐⭐⭐⭐⭐
 - [许三观卖血记](https://book.douban.com/subject/1029791/) 余华 ⭐⭐⭐⭐⭐
 - [活着](https://book.douban.com/subject/1082154/) 余华 ⭐⭐⭐⭐⭐
+
 
 
