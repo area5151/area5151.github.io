@@ -13,7 +13,8 @@ Infrastructure Engineer, Interested at Blockchain, History and Artificial Intell
 - [Quantitative Trading: How to Build Your Own Algorithmic Trading Business](https://www.amazon.co.jp/-/zh/dp-1119800064/dp/1119800064/ref=dp_ob_title_bk) Ernest P. Chan ⭐⭐
 - [他改变了中国：江泽民传](https://m.douban.com/book/subject/1258378/) 罗伯特·劳伦斯·库恩 ⭐️⭐️⭐️
 - [让时间陪你慢慢变富](https://www.amazon.com/-/zh_TW/%E6%9D%8E%E7%AC%91%E6%9D%A5-ebook/dp/B0CW1GWK8W) 李笑来 ⭐⭐⭐⭐
-- [从战争中走来：两代军人的对话](https://book.douban.com/subject/25733363/) 张胜 ⭐⭐⭐⭐⭐
+- [从战争中走来：两代军人的对话](https://book.douban.com/subject/25733363/) 张胜 ⭐⭐⭐⭐
+- [關山奪路 - 王鼎鈞回憶錄四部曲之三](https://hkbookcentre.uk/biography-memoir/Wang-Ding-Jun-memoir3/) 王鼎鈞 ⭐⭐⭐⭐⭐
 
 ### 2024（The Year of Artificial Intelligence）
 - [Unit Testing : Principles, Patterns and Practices](https://book.douban.com/subject/34429421/) Vladimir Khorikov ⭐⭐⭐⭐⭐
@@ -78,6 +79,7 @@ Infrastructure Engineer, Interested at Blockchain, History and Artificial Intell
 - [兄弟](https://book.douban.com/subject/1401425/) 余华  ⭐⭐⭐⭐⭐
 - [许三观卖血记](https://book.douban.com/subject/1029791/) 余华 ⭐⭐⭐⭐⭐
 - [活着](https://book.douban.com/subject/1082154/) 余华 ⭐⭐⭐⭐⭐
+
 
 
 
