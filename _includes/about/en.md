@@ -2,6 +2,9 @@ Infrastructure Engineer, Interested at Blockchain, History and Artificial Intell
 
 # Books I've read
 
+### 2026
+- [温故一九四二](https://book.douban.com/subject/36062392/) 刘震云 ⭐⭐⭐
+
 ### 2025（The Year of Trading）
 - [The Crypto Trader](https://www.amazon.com/Crypto-Trader-trading-Bitcoin-cryptocurrencies/dp/0857197177) Glen Goodman ⭐⭐⭐
 - [How to Day Trade for a Living](https://www.amazon.com/dp/1535585951/?bestFormat=true&k=how%20to%20do%20day%20trade%20for%20a%20living%20book&ref_=nb_sb_ss_w_scx-ent-pd-bk-d_de_k0_1_26&crid=2JL7G31LRNR98&sprefix=how%20to%20day%20trade%20for%20a%20liv) Andrew Aziz ⭐⭐⭐⭐
@@ -80,6 +83,7 @@ Infrastructure Engineer, Interested at Blockchain, History and Artificial Intell
 - [兄弟](https://book.douban.com/subject/1401425/) 余华  ⭐⭐⭐⭐⭐
 - [许三观卖血记](https://book.douban.com/subject/1029791/) 余华 ⭐⭐⭐⭐⭐
 - [活着](https://book.douban.com/subject/1082154/) 余华 ⭐⭐⭐⭐⭐
+
 
 
 
