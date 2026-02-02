@@ -4,6 +4,7 @@ Infrastructure Engineer, Interested at Blockchain, History and Artificial Intell
 
 ### 2026
 - [温故一九四二](https://book.douban.com/subject/36062392/) 刘震云 ⭐⭐⭐
+- [甲骨文：一次占卜當代中國的旅程](https://www.eslite.com/product/1001243252040369?srsltid=AfmBOopuSqat8yTwOve96SWc8pHnYeSVWzzo6bZ2yA171UUq-F7yr_XA) 何偉（Peter Hessler）著/盧秋瑩譯 ⭐⭐⭐⭐
 
 ### 2025（The Year of Trading）
 - [The Crypto Trader](https://www.amazon.com/Crypto-Trader-trading-Bitcoin-cryptocurrencies/dp/0857197177) Glen Goodman ⭐⭐⭐
@@ -83,6 +84,7 @@ Infrastructure Engineer, Interested at Blockchain, History and Artificial Intell
 - [兄弟](https://book.douban.com/subject/1401425/) 余华  ⭐⭐⭐⭐⭐
 - [许三观卖血记](https://book.douban.com/subject/1029791/) 余华 ⭐⭐⭐⭐⭐
 - [活着](https://book.douban.com/subject/1082154/) 余华 ⭐⭐⭐⭐⭐
+
 
 
 
