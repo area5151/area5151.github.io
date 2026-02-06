@@ -14,7 +14,8 @@ Infrastructure Engineer, Interested at Blockchain, History and Artificial Intell
   - [Think Like a Rocket Scientist : Simple Strategies You Can Use to Make Giant Leaps in Work and Life](https://book.douban.com/subject/34957041/) Ozan Varol
   - [月亮与六便士](https://book.douban.com/subject/26707463/) 毛姆
   - [1984 : 反乌托邦三部曲](https://book.douban.com/subject/25798623/) 乔治·奥威尔 
-  - [动物庄园](https://book.douban.com/subject/11533585/) 乔治·奥威尔 
+  - [动物庄园](https://book.douban.com/subject/11533585/) 乔治·奥威尔
+  - [江城](https://book.douban.com/subject/7060185/) 何伟（Peter Hessler） 
 - Technical
   - [Blockchain, Crypto and DeFi: Bridging Finance and Technology](https://www.amazon.com/Blockchain-Crypto-DeFi-Bridging-Technology/dp/1394275897) Marco Di Maggio
   - [Unit Testing : Principles, Patterns and Practices](https://book.douban.com/subject/34429421/) Vladimir Khorikov
@@ -106,6 +107,8 @@ Infrastructure Engineer, Interested at Blockchain, History and Artificial Intell
 - [兄弟](https://book.douban.com/subject/1401425/) 余华  ⭐⭐⭐⭐⭐
 - [许三观卖血记](https://book.douban.com/subject/1029791/) 余华 ⭐⭐⭐⭐⭐
 - [活着](https://book.douban.com/subject/1082154/) 余华 ⭐⭐⭐⭐⭐
+- [江城](https://book.douban.com/subject/7060185/) 何伟（Peter Hessler）⭐⭐⭐⭐⭐
+
 
 
 
