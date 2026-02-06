@@ -2,9 +2,29 @@ Infrastructure Engineer, Interested at Blockchain, History and Artificial Intell
 
 # Books I've read
 
+### Best of Best
+- Non-technical
+  - [一滴淚：從肅反到文革的回憶](https://www.amazon.com/-/zh_TW/%E4%B8%80%E6%BB%B4%E6%B7%9A%EF%BC%9A%E5%BE%9E%E8%82%85%E5%8F%8D%E5%88%B0%E6%96%87%E9%9D%A9%E7%9A%84%E5%9B%9E%E6%86%B6-Wu-Ningkun/dp/9867178394) 巫寧坤、李怡楷 / 允晨文化
+  - [甲骨文：一次占卜當代中國的旅程](https://www.eslite.com/product/1001243252040369?srsltid=AfmBOopuSqat8yTwOve96SWc8pHnYeSVWzzo6bZ2yA171UUq-F7yr_XA) 何偉（Peter Hessler) / 八旗文化
+  - [關山奪路 - 王鼎鈞回憶錄四部曲之三](https://hkbookcentre.uk/biography-memoir/Wang-Ding-Jun-memoir3/) 王鼎鈞 / 爾雅出版
+  - [从战争中走来：两代军人的对话](https://book.douban.com/subject/25733363/) 张胜
+  - [鄧小平時代](https://book.douban.com/subject/20424526/) Ezra.F.Vogel / 香港中文大学出版社
+  - [北京法源寺](https://book.douban.com/subject/1062991/) 李敖
+  - [亮剑](https://book.douban.com/subject/27167368/) 都梁
+  - [Think Like a Rocket Scientist : Simple Strategies You Can Use to Make Giant Leaps in Work and Life](https://book.douban.com/subject/34957041/) Ozan Varol
+  - [月亮与六便士](https://book.douban.com/subject/26707463/) 毛姆
+- Technical
+  - [Blockchain, Crypto and DeFi: Bridging Finance and Technology](https://www.amazon.com/Blockchain-Crypto-DeFi-Bridging-Technology/dp/1394275897) Marco Di Maggio
+  - [Unit Testing : Principles, Patterns and Practices](https://book.douban.com/subject/34429421/) Vladimir Khorikov
+  - [Build a Large Language Model (From Scratch)](https://book.douban.com/subject/36808317/) Sebastian Raschka
+  - [Deep Learning with Python, Second Edition](https://book.douban.com/subject/34992553/) François Chollet
+  - [Why Machines Learn: The Elegant Math Behind Modern AI](https://www.amazon.com/Why-Machines-Learn-Elegant-Behind/dp/0593185749) Anil Ananthaswamy
+  - [Designing Data-Intensive Applications : The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://book.douban.com/subject/26197294/) Martin Kleppmann
+
 ### 2026
 - [温故一九四二](https://book.douban.com/subject/36062392/) 刘震云 ⭐⭐⭐
-- [甲骨文：一次占卜當代中國的旅程](https://www.eslite.com/product/1001243252040369?srsltid=AfmBOopuSqat8yTwOve96SWc8pHnYeSVWzzo6bZ2yA171UUq-F7yr_XA) 何偉（Peter Hessler）著/盧秋瑩 譯 ⭐⭐⭐⭐
+- [甲骨文：一次占卜當代中國的旅程](https://www.eslite.com/product/1001243252040369?srsltid=AfmBOopuSqat8yTwOve96SWc8pHnYeSVWzzo6bZ2yA171UUq-F7yr_XA) 何偉（Peter Hessler）著/盧秋瑩 譯 ⭐⭐⭐⭐⭐
+- [一滴淚：從肅反到文革的回憶](https://www.amazon.com/-/zh_TW/%E4%B8%80%E6%BB%B4%E6%B7%9A%EF%BC%9A%E5%BE%9E%E8%82%85%E5%8F%8D%E5%88%B0%E6%96%87%E9%9D%A9%E7%9A%84%E5%9B%9E%E6%86%B6-Wu-Ningkun/dp/9867178394) 巫寧坤/李怡楷 ⭐⭐⭐⭐⭐
 
 ### 2025（The Year of Trading）
 - [The Crypto Trader](https://www.amazon.com/Crypto-Trader-trading-Bitcoin-cryptocurrencies/dp/0857197177) Glen Goodman ⭐⭐⭐
@@ -17,7 +37,7 @@ Infrastructure Engineer, Interested at Blockchain, History and Artificial Intell
 - [Quantitative Trading: How to Build Your Own Algorithmic Trading Business](https://www.amazon.co.jp/-/zh/dp-1119800064/dp/1119800064/ref=dp_ob_title_bk) Ernest P. Chan ⭐⭐
 - [他改变了中国：江泽民传](https://m.douban.com/book/subject/1258378/) 罗伯特·劳伦斯·库恩 ⭐️⭐️⭐️
 - [让时间陪你慢慢变富](https://www.amazon.com/-/zh_TW/%E6%9D%8E%E7%AC%91%E6%9D%A5-ebook/dp/B0CW1GWK8W) 李笑来 ⭐⭐⭐⭐
-- [从战争中走来：两代军人的对话](https://book.douban.com/subject/25733363/) 张胜 ⭐⭐⭐⭐
+- [从战争中走来：两代军人的对话](https://book.douban.com/subject/25733363/) 张胜 ⭐⭐⭐⭐⭐
 - [關山奪路 - 王鼎鈞回憶錄四部曲之三](https://hkbookcentre.uk/biography-memoir/Wang-Ding-Jun-memoir3/) 王鼎鈞 ⭐⭐⭐⭐⭐
 - [长期投资：平凡之人缔造不平凡投资之道](https://book.douban.com/subject/35006012/) Francisco García Paramés ⭐️⭐️⭐️
 
@@ -84,6 +104,7 @@ Infrastructure Engineer, Interested at Blockchain, History and Artificial Intell
 - [兄弟](https://book.douban.com/subject/1401425/) 余华  ⭐⭐⭐⭐⭐
 - [许三观卖血记](https://book.douban.com/subject/1029791/) 余华 ⭐⭐⭐⭐⭐
 - [活着](https://book.douban.com/subject/1082154/) 余华 ⭐⭐⭐⭐⭐
+
 
 
 
