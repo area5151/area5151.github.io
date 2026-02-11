@@ -23,6 +23,7 @@ Infrastructure Engineer, Interested at Blockchain, History and Artificial Intell
   - [Deep Learning with Python, Second Edition](https://book.douban.com/subject/34992553/) François Chollet
   - [Why Machines Learn: The Elegant Math Behind Modern AI](https://www.amazon.com/Why-Machines-Learn-Elegant-Behind/dp/0593185749) Anil Ananthaswamy
   - [Designing Data-Intensive Applications : The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://book.douban.com/subject/26197294/) Martin Kleppmann
+  - [TCP/IP协议详解卷一：协议](https://book.douban.com/subject/1088054/) Richard Stevens
 
 ### 2026
 - [温故一九四二](https://book.douban.com/subject/36062392/) 刘震云 ⭐⭐⭐
@@ -88,7 +89,7 @@ Infrastructure Engineer, Interested at Blockchain, History and Artificial Intell
 - [显微镜下的大明](https://book.douban.com/subject/30414743/) 马伯庸 ⭐⭐⭐⭐
 - [射雕英雄传](https://book.douban.com/subject/1082271/) 金庸 ⭐⭐⭐⭐
 - [万历十五年](https://book.douban.com/subject/26418524/) 黄仁宇 ⭐⭐⭐⭐
-- [SQLite design and implementation] Sibsankar Haldar ⭐⭐⭐⭐⭐
+- [SQLite Database Design and Implementation](https://books.google.com.sg/books?id=OEJ1CQAAQBAJ&printsec=copyright&redir_esc=y#v=onepage&q&f=false) Sibsankar Haldar ⭐⭐⭐⭐⭐
 - [Linux多线程服务端编程](https://book.douban.com/subject/20471211/) 陈硕 ⭐⭐⭐⭐
 - [The Practice of Programming](https://book.douban.com/subject/1459281/) Brian W. Kernighan、Rob Pike ⭐⭐⭐⭐
 - [Practical File System Design with the Be File System](https://book.douban.com/subject/1786841/) Dominic Giampaolo ⭐⭐⭐⭐
@@ -114,7 +115,16 @@ Infrastructure Engineer, Interested at Blockchain, History and Artificial Intell
 - [Modern Operating Systems](https://www.amazon.sg/Modern-Operating-Systems-Andrew-Tanenbaum/dp/013359162X) Andrew Tanenbaum ⭐⭐⭐⭐
 - [Operating Systems: Three Easy Pieces](https://www.amazon.sg/Operating-Systems-Three-Easy-Pieces/dp/198508659X/ref=pd_lpo_d_sccl_2/356-2398059-2330161?pd_rd_w=2rv8D&content-id=amzn1.sym.b8b09a75-f5ba-44c6-84f6-1907c5fb29ed&pf_rd_p=b8b09a75-f5ba-44c6-84f6-1907c5fb29ed&pf_rd_r=RA34W41B0YRW7R1BVMW3&pd_rd_wg=3ytMT&pd_rd_r=cce33fb8-ce85-4bc9-87c7-5fbfbc53dfdf&pd_rd_i=198508659X&psc=1) Remzi H. Arpaci-Dusseau ⭐⭐⭐⭐
 - [Linux内核完全剖析](https://book.douban.com/subject/3229243/) 赵炯 ⭐⭐⭐⭐
+- [TCP/IP协议详解卷一：协议](https://book.douban.com/subject/1088054/) Richard Stevens ⭐⭐⭐⭐⭐
 - [汇编语言](https://book.douban.com/subject/35038473/) 王爽 ⭐⭐⭐⭐
+- [C++ Primer](https://www.amazon.sg/C-Primer-Stanley-Lippman/dp/0321714113) Stanley Lippman ⭐⭐⭐⭐⭐
+- [The C Programming Language](https://en.wikipedia.org/wiki/The_C_Programming_Language) Brian Kernighan、Dennis Ritchie ⭐⭐⭐⭐⭐
+- [Python核心编程](https://book.douban.com/subject/3112503/) Wesley J. Chun ⭐⭐⭐⭐
+- [C Primer Plus](https://book.douban.com/subject/1240002/) Stephen Prata ⭐⭐⭐⭐
+- [鸟哥的Linux私房菜](https://book.douban.com/subject/2208530/) 鸟哥 ⭐⭐⭐⭐
+- [C语言设计](https://book.douban.com/subject/1040868/) 谭浩强 ⭐⭐⭐⭐
+- [C和指针](https://book.douban.com/subject/3012360/) Kenneth A.Reek ⭐⭐⭐⭐
+
 
 
 
