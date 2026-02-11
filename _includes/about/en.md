@@ -108,6 +108,12 @@ Infrastructure Engineer, Interested at Blockchain, History and Artificial Intell
 - [许三观卖血记](https://book.douban.com/subject/1029791/) 余华 ⭐⭐⭐⭐⭐
 - [活着](https://book.douban.com/subject/1082154/) 余华 ⭐⭐⭐⭐⭐
 - [江城](https://book.douban.com/subject/7060185/) 何伟（Peter Hessler）⭐⭐⭐⭐⭐
+- [Advanced Programming in the Unix Environment](https://en.wikipedia.org/wiki/Advanced_Programming_in_the_Unix_Environment) Richard Stevens ⭐⭐⭐⭐⭐
+- [Unix Network Programming](https://en.wikipedia.org/wiki/UNIX_Network_Programming) Richard Stevens ⭐⭐⭐⭐⭐
+- [Linux System Programming: Talking Directly to the Kernel and C Library](https://www.amazon.com/Linux-System-Programming-Talking-Directly/dp/1449339530) Robert Love ⭐⭐⭐⭐⭐
+- [Modern Operating Systems](https://www.amazon.sg/Modern-Operating-Systems-Andrew-Tanenbaum/dp/013359162X) Andrew Tanenbaum ⭐⭐⭐⭐⭐
+- [Operating Systems: Three Easy Pieces](https://www.amazon.sg/Operating-Systems-Three-Easy-Pieces/dp/198508659X/ref=pd_lpo_d_sccl_2/356-2398059-2330161?pd_rd_w=2rv8D&content-id=amzn1.sym.b8b09a75-f5ba-44c6-84f6-1907c5fb29ed&pf_rd_p=b8b09a75-f5ba-44c6-84f6-1907c5fb29ed&pf_rd_r=RA34W41B0YRW7R1BVMW3&pd_rd_wg=3ytMT&pd_rd_r=cce33fb8-ce85-4bc9-87c7-5fbfbc53dfdf&pd_rd_i=198508659X&psc=1) Remzi H. Arpaci-Dusseau ⭐⭐⭐⭐⭐
+
 
 
 
