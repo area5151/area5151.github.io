@@ -27,8 +27,9 @@ Infrastructure Engineer, Interested at Blockchain, History and Artificial Intell
 
 ### 2026
 - [温故一九四二](https://book.douban.com/subject/36062392/) 刘震云 ⭐⭐⭐
-- [甲骨文：一次占卜當代中國的旅程](https://www.eslite.com/product/1001243252040369?srsltid=AfmBOopuSqat8yTwOve96SWc8pHnYeSVWzzo6bZ2yA171UUq-F7yr_XA) 何偉（Peter Hessler）著/盧秋瑩 譯 ⭐⭐⭐⭐⭐
+- [甲骨文：一次占卜當代中國的旅程](https://www.eslite.com/product/1001243252040369?srsltid=AfmBOopuSqat8yTwOve96SWc8pHnYeSVWzzo6bZ2yA171UUq-F7yr_XA) 何偉（Peter Hessler）著/盧秋瑩 譯 ⭐⭐⭐⭐
 - [一滴淚：從肅反到文革的回憶](https://www.amazon.com/-/zh_TW/%E4%B8%80%E6%BB%B4%E6%B7%9A%EF%BC%9A%E5%BE%9E%E8%82%85%E5%8F%8D%E5%88%B0%E6%96%87%E9%9D%A9%E7%9A%84%E5%9B%9E%E6%86%B6-Wu-Ningkun/dp/9867178394) 巫寧坤/李怡楷 ⭐⭐⭐⭐⭐
+- [沧桑十年：为了悲剧不重演](https://baike.baidu.com/item/%E6%B2%A7%E6%A1%91%E5%8D%81%E5%B9%B4/12171018) 马识途 / 中共中央党校出版社 ⭐⭐⭐
 
 ### 2025（The Year of Trading）
 - [The Crypto Trader](https://www.amazon.com/Crypto-Trader-trading-Bitcoin-cryptocurrencies/dp/0857197177) Glen Goodman ⭐⭐⭐
@@ -125,6 +126,7 @@ Infrastructure Engineer, Interested at Blockchain, History and Artificial Intell
 - [鸟哥的Linux私房菜](https://book.douban.com/subject/2208530/) 鸟哥 ⭐⭐⭐⭐
 - [C语言设计](https://book.douban.com/subject/1040868/) 谭浩强 ⭐⭐⭐⭐
 - [C和指针](https://book.douban.com/subject/3012360/) Kenneth A.Reek ⭐⭐⭐⭐
+
 
 
 
