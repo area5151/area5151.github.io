@@ -4,10 +4,10 @@ Infrastructure Engineer, Interested at Blockchain, History and Artificial Intell
 
 ### Best of Best
 - Non-technical
-  - [一滴淚 - 從肅反到文革的回憶](https://www.amazon.com/-/zh_TW/%E4%B8%80%E6%BB%B4%E6%B7%9A%EF%BC%9A%E5%BE%9E%E8%82%85%E5%8F%8D%E5%88%B0%E6%96%87%E9%9D%A9%E7%9A%84%E5%9B%9E%E6%86%B6-Wu-Ningkun/dp/9867178394) 巫寧坤、李怡楷 / 允晨文化
-  - [甲骨文 - 一次占卜當代中國的旅程](https://www.eslite.com/product/1001243252040369?srsltid=AfmBOopuSqat8yTwOve96SWc8pHnYeSVWzzo6bZ2yA171UUq-F7yr_XA) 何偉（Peter Hessler) / 八旗文化
-  - [關山奪路 - 王鼎鈞回憶錄四部曲之三](https://hkbookcentre.uk/biography-memoir/Wang-Ding-Jun-memoir3/) 王鼎鈞 / 爾雅出版
-  - [从战争中走来 - 两代军人的对话](https://book.douban.com/subject/25733363/) 张胜
+  - [一滴淚：從肅反到文革的回憶](https://www.amazon.com/-/zh_TW/%E4%B8%80%E6%BB%B4%E6%B7%9A%EF%BC%9A%E5%BE%9E%E8%82%85%E5%8F%8D%E5%88%B0%E6%96%87%E9%9D%A9%E7%9A%84%E5%9B%9E%E6%86%B6-Wu-Ningkun/dp/9867178394) 巫寧坤、李怡楷 / 允晨文化
+  - [甲骨文：一次占卜當代中國的旅程](https://www.eslite.com/product/1001243252040369?srsltid=AfmBOopuSqat8yTwOve96SWc8pHnYeSVWzzo6bZ2yA171UUq-F7yr_XA) 何偉（Peter Hessler) / 八旗文化
+  - [關山奪路：王鼎鈞回憶錄四部曲之三](https://hkbookcentre.uk/biography-memoir/Wang-Ding-Jun-memoir3/) 王鼎鈞 / 爾雅出版
+  - [从战争中走来：两代军人的对话](https://book.douban.com/subject/25733363/) 张胜
   - [鄧小平時代](https://book.douban.com/subject/20424526/) Ezra.F.Vogel / 香港中文大学出版社
   - [北京法源寺](https://book.douban.com/subject/1062991/) 李敖
   - [亮剑](https://book.douban.com/subject/27167368/) 都梁
@@ -45,7 +45,7 @@ Infrastructure Engineer, Interested at Blockchain, History and Artificial Intell
 - [他改变了中国：江泽民传](https://m.douban.com/book/subject/1258378/) 罗伯特·劳伦斯·库恩 ⭐️⭐️⭐️
 - [让时间陪你慢慢变富](https://www.amazon.com/-/zh_TW/%E6%9D%8E%E7%AC%91%E6%9D%A5-ebook/dp/B0CW1GWK8W) 李笑来 ⭐⭐⭐⭐
 - [从战争中走来：两代军人的对话](https://book.douban.com/subject/25733363/) 张胜 ⭐⭐⭐⭐⭐
-- [關山奪路 - 王鼎鈞回憶錄四部曲之三](https://hkbookcentre.uk/biography-memoir/Wang-Ding-Jun-memoir3/) 王鼎鈞 ⭐⭐⭐⭐⭐
+- [關山奪路：王鼎鈞回憶錄四部曲之三](https://hkbookcentre.uk/biography-memoir/Wang-Ding-Jun-memoir3/) 王鼎鈞 ⭐⭐⭐⭐⭐
 - [长期投资：平凡之人缔造不平凡投资之道](https://book.douban.com/subject/35006012/) Francisco García Paramés ⭐️⭐️⭐️
 
 ### 2024（The Year of Artificial Intelligence）
@@ -57,7 +57,7 @@ Infrastructure Engineer, Interested at Blockchain, History and Artificial Intell
 - [推拿](https://book.douban.com/subject/34432627/) 毕飞宇 ⭐⭐⭐⭐
 - [戴维营三天](https://book.douban.com/subject/36177510/) 杰弗里·E.加藤 ⭐⭐⭐⭐
 - [组织部来了个年轻人](https://book.douban.com/subject/35455394/) 王蒙 ⭐⭐⭐
-- [1984 : 反乌托邦三部曲](https://book.douban.com/subject/25798623/) 乔治·奥威尔 ⭐⭐⭐⭐⭐
+- [1984：反乌托邦三部曲](https://book.douban.com/subject/25798623/) 乔治·奥威尔 ⭐⭐⭐⭐⭐
 - [动物庄园](https://book.douban.com/subject/11533585/) 乔治·奥威尔 ⭐⭐⭐⭐⭐
 - [Deep Learning with Python, Second Edition](https://book.douban.com/subject/34992553/) François Chollet ⭐⭐⭐⭐⭐
 - [Grokking Deep Learning](https://book.douban.com/subject/26887949/) Andrew Trask ⭐⭐⭐
@@ -128,6 +128,7 @@ Infrastructure Engineer, Interested at Blockchain, History and Artificial Intell
 - [鸟哥的Linux私房菜](https://book.douban.com/subject/2208530/) 鸟哥 ⭐⭐⭐⭐
 - [C语言设计](https://book.douban.com/subject/1040868/) 谭浩强 ⭐⭐⭐⭐
 - [C和指针](https://book.douban.com/subject/3012360/) Kenneth A.Reek ⭐⭐⭐⭐
+
 
 
 
