@@ -34,7 +34,7 @@ Infrastructure Engineer, Interested at Blockchain, History and Artificial Intell
 - [~~历史中的大与小(unfinished)~~](https://book.douban.com/subject/37869944/) 马伯庸 ⭐⭐
 - [孤星之旅：苏东坡传](https://book.douban.com/subject/36247474/) 周文翰 ⭐⭐⭐
 
-### 2025（The Year of Trading）
+### 2025 - The Year of Trading
 - [The Crypto Trader](https://www.amazon.com/Crypto-Trader-trading-Bitcoin-cryptocurrencies/dp/0857197177) Glen Goodman ⭐⭐⭐
 - [How to Day Trade for a Living](https://www.amazon.com/dp/1535585951/?bestFormat=true&k=how%20to%20do%20day%20trade%20for%20a%20living%20book&ref_=nb_sb_ss_w_scx-ent-pd-bk-d_de_k0_1_26&crid=2JL7G31LRNR98&sprefix=how%20to%20day%20trade%20for%20a%20liv) Andrew Aziz ⭐⭐⭐⭐
 - [Crypto Trading for Ambitious Beginners](https://www.amazon.sg/Crypto-Trading-Ambitious-Beginners-Cryptocurrencies/dp/9082506386) Jelle Peters ⭐⭐⭐
@@ -49,7 +49,7 @@ Infrastructure Engineer, Interested at Blockchain, History and Artificial Intell
 - [關山奪路：王鼎鈞回憶錄四部曲之三](https://hkbookcentre.uk/biography-memoir/Wang-Ding-Jun-memoir3/) 王鼎鈞 ⭐⭐⭐⭐⭐
 - [长期投资：平凡之人缔造不平凡投资之道](https://book.douban.com/subject/35006012/) Francisco García Paramés ⭐️⭐️⭐️
 
-### 2024（The Year of Artificial Intelligence）
+### 2024 - The Year of Artificial Intelligence
 - [Unit Testing : Principles, Patterns and Practices](https://book.douban.com/subject/34429421/) Vladimir Khorikov ⭐⭐⭐⭐⭐
 - [超越百岁 : 长寿的科学与艺术](https://book.douban.com/subject/36696538/) Peter Attia、Bill Gifford ⭐⭐⭐⭐⭐
 - [奥本海默传 : 美国“原子弹之父”的胜利与悲剧](https://book.douban.com/subject/36483883/) 凯·伯德、马丁·J.舍温 ⭐⭐⭐⭐
@@ -73,7 +73,7 @@ Infrastructure Engineer, Interested at Blockchain, History and Artificial Intell
 - [北京法源寺](https://book.douban.com/subject/1062991/) 李敖 ⭐⭐⭐⭐⭐
 - [克里斯汀](https://book.douban.com/subject/36759442/) 斯蒂芬•金 ⭐⭐
 
-### 2023（The Year of Engineering）
+### 2023 - The Year of Engineering
 - [Bitcoin and Cryptocurrency Technologies : A Comprehensive Introduction](https://book.douban.com/subject/26745448/) Arvind Narayanan ⭐⭐⭐⭐
 - [太白金星有点烦](https://book.douban.com/subject/36328704/) 马伯庸 ⭐⭐⭐⭐⭐
 - [The Infinite Machine : How an Army of Crypto-hackers Is Building the Next Internet with Ethereum](https://book.douban.com/subject/35222512/) Camila Russo ⭐⭐⭐⭐
@@ -129,6 +129,7 @@ Infrastructure Engineer, Interested at Blockchain, History and Artificial Intell
 - [鸟哥的Linux私房菜](https://book.douban.com/subject/2208530/) 鸟哥 ⭐⭐⭐⭐
 - [C语言设计](https://book.douban.com/subject/1040868/) 谭浩强 ⭐⭐⭐⭐
 - [C和指针](https://book.douban.com/subject/3012360/) Kenneth A.Reek ⭐⭐⭐⭐
+
 
 
 
