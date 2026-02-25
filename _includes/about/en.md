@@ -33,6 +33,7 @@ Infrastructure Engineer, Interested at Blockchain, History and Artificial Intell
 - [沧桑十年：为了悲剧不重演](https://baike.baidu.com/item/%E6%B2%A7%E6%A1%91%E5%8D%81%E5%B9%B4/12171018) 马识途 / 中共中央党校出版社 ⭐⭐⭐
 - [~~历史中的大与小(unfinished)~~](https://book.douban.com/subject/37869944/) 马伯庸 ⭐⭐
 - [孤星之旅：苏东坡传](https://book.douban.com/subject/36247474/) 周文翰 ⭐⭐⭐
+- [苏轼十讲](https://book.douban.com/subject/33411346/) 朱刚 ⭐⭐⭐⭐
 
 ### 2025 - The Year of Trading
 - [The Crypto Trader](https://www.amazon.com/Crypto-Trader-trading-Bitcoin-cryptocurrencies/dp/0857197177) Glen Goodman ⭐⭐⭐
@@ -129,6 +130,7 @@ Infrastructure Engineer, Interested at Blockchain, History and Artificial Intell
 - [鸟哥的Linux私房菜](https://book.douban.com/subject/2208530/) 鸟哥 ⭐⭐⭐⭐
 - [C语言设计](https://book.douban.com/subject/1040868/) 谭浩强 ⭐⭐⭐⭐
 - [C和指针](https://book.douban.com/subject/3012360/) Kenneth A.Reek ⭐⭐⭐⭐
+
 
 
 
