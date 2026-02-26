@@ -34,6 +34,10 @@ Infrastructure Engineer, Interested at Blockchain, History and Artificial Intell
 - [~~历史中的大与小(unfinished)~~](https://book.douban.com/subject/37869944/) 马伯庸 ⭐⭐
 - [孤星之旅：苏东坡传](https://book.douban.com/subject/36247474/) 周文翰 ⭐⭐⭐
 - [苏轼十讲](https://book.douban.com/subject/33411346/) 朱刚 ⭐⭐⭐⭐
+- [苏东坡新传（待阅读）](https://book.douban.com/subject/34996404/) 李一冰
+- [苏轼选集（待阅读）](https://book.douban.com/subject/25996988/) 王水照
+- [The Scaling Era: An Oral History of AI, 2019–2025（待阅读）](https://press.stripe.com/scaling) Dwarkesh Patel、Gavin Leech
+- [A Brief History of Intelligence: Evolution, AI, and the Five Breakthroughs That Made Our Brains（阅读中）](https://www.amazon.com/Brief-History-Intelligence-Humans-Breakthroughs/dp/0063286343) Max Bennett 
 
 ### 2025 - The Year of Trading
 - [The Crypto Trader](https://www.amazon.com/Crypto-Trader-trading-Bitcoin-cryptocurrencies/dp/0857197177) Glen Goodman ⭐⭐⭐
@@ -130,6 +134,7 @@ Infrastructure Engineer, Interested at Blockchain, History and Artificial Intell
 - [鸟哥的Linux私房菜](https://book.douban.com/subject/2208530/) 鸟哥 ⭐⭐⭐⭐
 - [C语言设计](https://book.douban.com/subject/1040868/) 谭浩强 ⭐⭐⭐⭐
 - [C和指针](https://book.douban.com/subject/3012360/) Kenneth A.Reek ⭐⭐⭐⭐
+
 
 
 
