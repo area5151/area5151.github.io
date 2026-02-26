@@ -39,6 +39,7 @@ Infrastructure Engineer, Interested at Blockchain, History and Artificial Intell
 - [The Scaling Era: An Oral History of AI, 2019–2025（待阅读）](https://press.stripe.com/scaling) Dwarkesh Patel、Gavin Leech
 - [A Brief History of Intelligence: Evolution, AI, and the Five Breakthroughs That Made Our Brains（阅读中）](https://www.amazon.com/Brief-History-Intelligence-Humans-Breakthroughs/dp/0063286343) Max Bennett
 - [The Shadow of the Sun](https://en.wikipedia.org/wiki/The_Shadow_of_the_Sun) Ryszard Kapuściński
+- [趙紫陽傳: 一位失敗改革家的一生](https://www.amazon.it/%E8%B6%99%E7%B4%AB%E9%99%BD%E5%82%B3%EF%BC%88%E5%A2%9E%E8%A8%82%E7%89%88%EF%BC%89-%E4%B8%80%E4%BD%8D%E5%A4%B1%E6%95%97%E6%94%B9%E9%9D%A9%E5%AE%B6%E7%9A%84%E4%B8%80%E7%94%9F-Traditional-Chinese-%E7%9B%A7%E8%BA%8D%E5%89%9B-ebook/dp/B0BR3KFXZ4) 盧躍剛
 
 ### 2025 - The Year of Trading
 - [The Crypto Trader](https://www.amazon.com/Crypto-Trader-trading-Bitcoin-cryptocurrencies/dp/0857197177) Glen Goodman ⭐⭐⭐
@@ -135,6 +136,7 @@ Infrastructure Engineer, Interested at Blockchain, History and Artificial Intell
 - [鸟哥的Linux私房菜](https://book.douban.com/subject/2208530/) 鸟哥 ⭐⭐⭐⭐
 - [C语言设计](https://book.douban.com/subject/1040868/) 谭浩强 ⭐⭐⭐⭐
 - [C和指针](https://book.douban.com/subject/3012360/) Kenneth A.Reek ⭐⭐⭐⭐
+
 
 
 
