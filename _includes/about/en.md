@@ -12,7 +12,7 @@ Infrastructure Engineer, Interested at Blockchain, History and Artificial Intell
   - [北京法源寺](https://book.douban.com/subject/1062991/) 李敖
   - [亮剑](https://book.douban.com/subject/27167368/) 都梁
   - [Think Like a Rocket Scientist : Simple Strategies You Can Use to Make Giant Leaps in Work and Life](https://book.douban.com/subject/34957041/) Ozan Varol
-  - [月亮与六便士](https://book.douban.com/subject/26707463/) 毛姆
+  - [围城](https://book.douban.com/subject/1008145/) 钱钟书
   - [1984 : 反乌托邦三部曲](https://book.douban.com/subject/25798623/) 乔治·奥威尔 
   - [动物庄园](https://book.douban.com/subject/11533585/) 乔治·奥威尔
   - [江城](https://book.douban.com/subject/7060185/) 何伟（Peter Hessler） 
@@ -76,7 +76,7 @@ Infrastructure Engineer, Interested at Blockchain, History and Artificial Intell
 - [天生就会跑（Born To Run）](https://book.douban.com/subject/11542577/) Christopher McDougall  ⭐⭐
 - [遥远的救世主](https://book.douban.com/subject/1322455/) 豆豆 ⭐⭐⭐
 - [Why Machines Learn: The Elegant Math Behind Modern AI](https://www.amazon.com/Why-Machines-Learn-Elegant-Behind/dp/0593185749) Anil Ananthaswamy ⭐⭐⭐⭐
-- [围城](https://book.douban.com/subject/1008145/) 钱钟书 ⭐⭐⭐⭐
+- [围城](https://book.douban.com/subject/1008145/) 钱钟书 ⭐⭐⭐⭐⭐
 - [双缝实验和量子力学(Through Two Doors at Once: The Elegant Experiment That Captures the Enigma of Our Quantum Reality)](https://book.douban.com/subject/36893049/) Anil Ananthaswamy ⭐⭐⭐
 - [北京法源寺](https://book.douban.com/subject/1062991/) 李敖 ⭐⭐⭐⭐⭐
 - [克里斯汀](https://book.douban.com/subject/36759442/) 斯蒂芬•金 ⭐⭐
@@ -137,6 +137,7 @@ Infrastructure Engineer, Interested at Blockchain, History and Artificial Intell
 - [鸟哥的Linux私房菜](https://book.douban.com/subject/2208530/) 鸟哥 ⭐⭐⭐⭐
 - [C语言设计](https://book.douban.com/subject/1040868/) 谭浩强 ⭐⭐⭐⭐
 - [C和指针](https://book.douban.com/subject/3012360/) Kenneth A.Reek ⭐⭐⭐⭐
+
 
 
 
