@@ -29,8 +29,8 @@ Infrastructure Engineer, Interested at Blockchain, History and Artificial Intell
 
 ### 2026
 - [温故一九四二](https://book.douban.com/subject/36062392/) 刘震云 ⭐⭐⭐
-- [甲骨文：一次占卜當代中國的旅程](https://www.eslite.com/product/1001243252040369?srsltid=AfmBOopuSqat8yTwOve96SWc8pHnYeSVWzzo6bZ2yA171UUq-F7yr_XA) 何偉（Peter Hessler）著/盧秋瑩 譯 ⭐⭐⭐⭐
-- [一滴淚：從肅反到文革的回憶](https://www.amazon.com/-/zh_TW/%E4%B8%80%E6%BB%B4%E6%B7%9A%EF%BC%9A%E5%BE%9E%E8%82%85%E5%8F%8D%E5%88%B0%E6%96%87%E9%9D%A9%E7%9A%84%E5%9B%9E%E6%86%B6-Wu-Ningkun/dp/9867178394) 巫寧坤/李怡楷 ⭐⭐⭐⭐⭐
+- [甲骨文：一次占卜當代中國的旅程](https://www.eslite.com/product/1001243252040369?srsltid=AfmBOopuSqat8yTwOve96SWc8pHnYeSVWzzo6bZ2yA171UUq-F7yr_XA) 何偉（Peter Hessler）著 / 盧秋瑩 譯 ⭐⭐⭐⭐
+- [一滴淚：從肅反到文革的回憶](https://www.amazon.com/-/zh_TW/%E4%B8%80%E6%BB%B4%E6%B7%9A%EF%BC%9A%E5%BE%9E%E8%82%85%E5%8F%8D%E5%88%B0%E6%96%87%E9%9D%A9%E7%9A%84%E5%9B%9E%E6%86%B6-Wu-Ningkun/dp/9867178394) 巫寧坤 / 李怡楷 ⭐⭐⭐⭐⭐
 - [沧桑十年：为了悲剧不重演](https://baike.baidu.com/item/%E6%B2%A7%E6%A1%91%E5%8D%81%E5%B9%B4/12171018) 马识途 / 中共中央党校出版社 ⭐⭐⭐
 - [~~历史中的大与小(unfinished)~~](https://book.douban.com/subject/37869944/) 马伯庸 ⭐⭐
 - [孤星之旅：苏东坡传](https://book.douban.com/subject/36247474/) 周文翰 ⭐⭐⭐
@@ -38,7 +38,7 @@ Infrastructure Engineer, Interested at Blockchain, History and Artificial Intell
 - [A Brief History of Intelligence: Evolution, AI, and the Five Breakthroughs That Made Our Brains](https://www.amazon.com/Brief-History-Intelligence-Humans-Breakthroughs/dp/0063286343) Max Bennett ⭐⭐⭐⭐⭐
 - [苏东坡新传（待阅读）](https://book.douban.com/subject/34996404/) 李一冰
 - [苏轼选集（待阅读）](https://book.douban.com/subject/25996988/) 王水照
-- [The Scaling Era: An Oral History of AI, 2019–2025（待阅读）](https://press.stripe.com/scaling) Dwarkesh Patel/Gavin Leech
+- [The Scaling Era: An Oral History of AI, 2019–2025（待阅读）](https://press.stripe.com/scaling) Dwarkesh Patel / Gavin Leech
 - [The Shadow of the Sun（待阅读）](https://en.wikipedia.org/wiki/The_Shadow_of_the_Sun（待阅读）) Ryszard Kapuściński
 - [趙紫陽傳: 一位失敗改革家的一生（待阅读）](https://www.amazon.it/%E8%B6%99%E7%B4%AB%E9%99%BD%E5%82%B3%EF%BC%88%E5%A2%9E%E8%A8%82%E7%89%88%EF%BC%89-%E4%B8%80%E4%BD%8D%E5%A4%B1%E6%95%97%E6%94%B9%E9%9D%A9%E5%AE%B6%E7%9A%84%E4%B8%80%E7%94%9F-Traditional-Chinese-%E7%9B%A7%E8%BA%8D%E5%89%9B-ebook/dp/B0BR3KFXZ4) 盧躍剛
 - [The Infinity Machine: Demis Hassabis, DeepMind and the Quest for Superintelligence（待阅读）](https://www.penguin.co.uk/books/461432/the-infinity-machine-by-mallaby-sebastian/9780241703564) Sebastian Mallaby
