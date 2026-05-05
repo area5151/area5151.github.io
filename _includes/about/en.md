@@ -37,6 +37,7 @@ Infrastructure Engineer, Interested at Blockchain, History and Artificial Intell
 - [苏轼十讲](https://book.douban.com/subject/33411346/) 朱刚 ⭐⭐⭐⭐
 - [A Brief History of Intelligence: Evolution, AI, and the Five Breakthroughs That Made Our Brains](https://www.amazon.com/Brief-History-Intelligence-Humans-Breakthroughs/dp/0063286343) Max Bennett ⭐⭐⭐⭐⭐
 - [改革歷程](https://zh.wikipedia.org/zh-hk/%E6%94%B9%E9%9D%A9%E5%8E%86%E7%A8%8B) 趙紫陽 ⭐⭐⭐⭐
+- [岳飞之死](https://book.douban.com/subject/36369313/) 高天流云 ⭐⭐⭐
 - [苏东坡新传（待阅读）](https://book.douban.com/subject/34996404/) 李一冰
 - [苏轼选集（待阅读）](https://book.douban.com/subject/25996988/) 王水照
 - [The Shadow of the Sun（待阅读）](https://en.wikipedia.org/wiki/The_Shadow_of_the_Sun（待阅读）) Ryszard Kapuściński
