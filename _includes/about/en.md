@@ -38,9 +38,10 @@ Infrastructure Engineer, Interested at Blockchain, History and Artificial Intell
 - [A Brief History of Intelligence: Evolution, AI, and the Five Breakthroughs That Made Our Brains](https://www.amazon.com/Brief-History-Intelligence-Humans-Breakthroughs/dp/0063286343) Max Bennett ⭐⭐⭐⭐⭐
 - [改革歷程](https://zh.wikipedia.org/zh-hk/%E6%94%B9%E9%9D%A9%E5%8E%86%E7%A8%8B) 趙紫陽 ⭐⭐⭐⭐
 - [岳飞之死](https://book.douban.com/subject/36369313/) 高天流云 ⭐⭐⭐
-- [网：阿加西自传](https://book.douban.com/subject/30164685/) Andre Kirk Agassi ⭐⭐⭐
+- [网：阿加西自传](https://book.douban.com/subject/30164685/) Andre Kirk Agassi ç
 - [康熙的红票：全球化中的清朝](https://book.douban.com/subject/36794613/) 孙立天 ⭐⭐⭐⭐
 - [~~北平无战事(unfinished)~~](https://book.douban.com/subject/34842782/) 刘和平 ⭐⭐
+- [往事不寂寞：《口述》精选集 2006 ~ 2008](https://book.douban.com/subject/36964800/) 李菁 √
 - [苏东坡新传（待阅读）](https://book.douban.com/subject/34996404/) 李一冰
 - [苏轼选集（待阅读）](https://book.douban.com/subject/25996988/) 王水照
 - [The Shadow of the Sun（待阅读）](https://en.wikipedia.org/wiki/The_Shadow_of_the_Sun（待阅读）) Ryszard Kapuściński
